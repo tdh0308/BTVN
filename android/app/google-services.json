@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1037755458845",
+    "project_id": "btvn-bf7ca",
+    "storage_bucket": "btvn-bf7ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037755458845:android:4858816d13e8932bffadf4",
+        "android_client_info": {
+          "package_name": "com.uda.huytd.test3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037755458845-t5ho7hdh1qmj2sp9s7mli2u5reljd6pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uda.huytd.test3",
+            "certificate_hash": "d6ab90c009e4375a01bedd57abbee2aaed54c946"
+          }
+        },
+        {
+          "client_id": "1037755458845-pn586sopvpe1v3cffspdd9gidbpsu6h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGjSi6yLzRrfVsQR3XwSao4MXaaOI21R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037755458845-pn586sopvpe1v3cffspdd9gidbpsu6h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
